@@ -9,7 +9,7 @@
 # testing
 /coverage
 
-# next.js
+# next.js build outputs
 /.next/
 /out/
 
@@ -19,19 +19,31 @@
 # misc
 .DS_Store
 *.pem
+*.log
 
-# debug
+# debug logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# local env files
-.env*.local
+# local env files (very important 🔐)
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
-# vercel
+# vercel deployment data
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# editor folders & settings
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
