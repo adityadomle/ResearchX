@@ -34,3 +34,4 @@ export async function generateAIContent(
     return `An error occurred while generating content for "${subtopicTitle}". Please try again later.`;
   }
 }
+ 

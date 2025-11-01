@@ -6,7 +6,7 @@ import {
   CardDescription,
   CardFooter,
   CardHeader,
-  CardTitle,
+  CardTitle, 
 } from "@/components/ui/card";
 import { DocumentOutline, Topic } from "@/lib/types";
 import { ScrollArea } from "@/components/ui/scroll-area";
