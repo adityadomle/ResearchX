@@ -2,10 +2,10 @@
 AI-Powered Research Document Generator  
 
 ## 🧠 About  
-ResearchX allows you to **generate comprehensive research documents** using advanced AI models—ideal for students, researchers, and professionals seeking to streamline their workflows.
+ResearchX allows you to **generate comprehensive research documents** using advanced AI models ideal for students, researchers, and professionals seeking to streamline their workflows.
 
 ## ✨ Features  
-- AI-Powered content generation for full research documents  
+- AI Powered content generation for full research documents  
 - Customizable outlines tailored to your subject, level, and length  
 - Format export options: DOCX, PDF — ready for presentation or submission  
 - Light/Dark mode for comfortable reading in any environment  
