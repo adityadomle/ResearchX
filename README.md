@@ -1,5 +1,5 @@
 # ResearchX ✨  
-AI-Powered Research Document Generator  
+AI-Powered Research Document Generator 🔥  
 
 ## 🧠 About  
 ResearchX allows you to **generate comprehensive research documents** using advanced AI models ideal for students, researchers, and professionals seeking to streamline their workflows.
