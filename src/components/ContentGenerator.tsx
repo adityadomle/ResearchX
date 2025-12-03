@@ -193,7 +193,7 @@ const ContentGenerator: React.FC<ContentGeneratorProps> = ({
                     ...s,
                     subtopics: s.subtopics.map((st) =>
                       st.id === subtopic.id ? { ...st, content } : st
-                    ),
+                    ), 
                   }
                 : s
             ),
